@@ -36,7 +36,7 @@ Sempre que o **ENTER** é recebido na UART, o programa realiza a leitura de todo
 ---
 
 ## Palavras-chave
-ESP32, UART, ESP-IDF, Comunicação Serial, UART0, Eventos UART, FreeRTOS
+ESP32, UART, ESP-IDF, Comunicação Serial, UART0, Eventos UART, FreeRTOS, Gabriel Comim
 
 
 
